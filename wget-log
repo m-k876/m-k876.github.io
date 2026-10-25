@@ -1,0 +1,11 @@
+--2026-10-25 11:30:49--  https://yandex.ru/images/search?search_client=unknown
+Resolving yandex.ru (yandex.ru)... 77.88.44.55, 5.255.255.77, 77.88.55.88, ...
+Connecting to yandex.ru (yandex.ru)|77.88.44.55|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: unspecified [text/html]
+Saving to: ‘search?search_client=unknown’
+
+search?search_client=unknown                  [<=>                                                                                  ]       0  --.-KB/s               search?search_client=unknown                  [ <=>                                                                                 ]   8,62K  40,3KB/s               search?search_client=unknown                  [  <=>                                                                                ]  41,11K  94,6KB/s               search?search_client=unknown                  [   <=>                                                                               ]  91,50K   141KB/s               search?search_client=unknown                  [    <=>                                                                              ] 185,73K   219KB/s               search?search_client=unknown                  [     <=>                                                                             ] 229,58K   249KB/s    in 0,9s    
+
+2026-10-25 11:30:51 (249 KB/s) - ‘search?search_client=unknown’ saved [235095]
+
